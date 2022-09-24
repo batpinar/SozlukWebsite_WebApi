@@ -1,0 +1,12 @@
+C:\Bootcamp-Projeler\BlazorSozluk\src\Common\BlazorSozluk.Common\bin\Debug\net6.0\BlazorSozluk.Common.deps.json
+C:\Bootcamp-Projeler\BlazorSozluk\src\Common\BlazorSozluk.Common\bin\Debug\net6.0\BlazorSozluk.Common.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Common\BlazorSozluk.Common\bin\Debug\net6.0\BlazorSozluk.Common.pdb
+C:\Bootcamp-Projeler\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.csproj.AssemblyReference.cache
+C:\Bootcamp-Projeler\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp-Projeler\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.AssemblyInfoInputs.cache
+C:\Bootcamp-Projeler\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.AssemblyInfo.cs
+C:\Bootcamp-Projeler\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.csproj.CoreCompileInputs.cache
+C:\Bootcamp-Projeler\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\refint\BlazorSozluk.Common.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\BlazorSozluk.Common.pdb
+C:\Bootcamp-Projeler\BlazorSozluk\src\Common\BlazorSozluk.Common\obj\Debug\net6.0\ref\BlazorSozluk.Common.dll

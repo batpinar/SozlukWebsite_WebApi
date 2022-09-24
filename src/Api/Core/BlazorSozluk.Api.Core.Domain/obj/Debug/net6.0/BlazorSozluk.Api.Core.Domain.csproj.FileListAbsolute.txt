@@ -1,0 +1,15 @@
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Domain\bin\Debug\net6.0\BlazorSozluk.Api.Core.Domain.deps.json
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Domain\bin\Debug\net6.0\BlazorSozluk.Api.Core.Domain.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Domain\bin\Debug\net6.0\BlazorSozluk.Api.Core.Domain.pdb
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Domain\bin\Debug\net6.0\BlazorSozluk.Common.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Domain\bin\Debug\net6.0\BlazorSozluk.Common.pdb
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Domain\obj\Debug\net6.0\BlazorSozluk.Api.Core.Domain.csproj.AssemblyReference.cache
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Domain\obj\Debug\net6.0\BlazorSozluk.Api.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Domain\obj\Debug\net6.0\BlazorSozluk.Api.Core.Domain.AssemblyInfoInputs.cache
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Domain\obj\Debug\net6.0\BlazorSozluk.Api.Core.Domain.AssemblyInfo.cs
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Domain\obj\Debug\net6.0\BlazorSozluk.Api.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Domain\obj\Debug\net6.0\BlazorSozluk.Api.Core.Domain.csproj.CopyComplete
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Domain\obj\Debug\net6.0\BlazorSozluk.Api.Core.Domain.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Domain\obj\Debug\net6.0\refint\BlazorSozluk.Api.Core.Domain.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Domain\obj\Debug\net6.0\BlazorSozluk.Api.Core.Domain.pdb
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Domain\obj\Debug\net6.0\ref\BlazorSozluk.Api.Core.Domain.dll
