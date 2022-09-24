@@ -13,6 +13,11 @@ public class BlazorSozlukDbContext : DbContext
 {
     public const string DEFAULT_SCHEMA = "dbo";
 
+    public BlazorSozlukDbContext()
+    {
+
+    }
+
     public BlazorSozlukDbContext(DbContextOptions options) : base(options)
     {
     }
@@ -27,6 +32,26 @@ public class BlazorSozlukDbContext : DbContext
     public DbSet<EntryCommentFavorite> EntryCommentFavorites { get; set; }
     public DbSet<EntryCommentVote> EntryCommentVotes { get; set; }
     public DbSet<EmailConfirmation> EmailConfirmations { get; set; }
+
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        if (!optionsBuilder.IsConfigured)
+        {
+            //var connStr = "Data Source=DESKTOP-7CORDPF;Initial Catalog=shoppinglist;Persist Security Info=True;User ID=ba;Password=Berkan123456";
+            //optionsBuilder.UseSqlServer(connStr, opt =>
+            //{
+            //    opt.EnableRetryOnFailure();
+            //}); 
+
+            //It Works In Design Time When We Adding Migration.
+
+            var connStr = "Server=DESKTOP-7CORDPF;Database=BlazorSuzluk;Trusted_Connection=True";
+            optionsBuilder.UseSqlServer(connStr, opt =>
+            {
+                opt.EnableRetryOnFailure();
+            });
+        }
+    }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
