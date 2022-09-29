@@ -1,3 +1,5 @@
+C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.BlazorWeb.WebApp\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.BlazorWeb.WebApp\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
 C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.BlazorWeb.WebApp\bin\Debug\net6.0\wwwroot\_framework\blazor.boot.json
 C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.BlazorWeb.WebApp\bin\Debug\net6.0\wwwroot\_framework\blazor.webassembly.js
 C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.BlazorWeb.WebApp\bin\Debug\net6.0\wwwroot\_framework\BlazorSozluk.Clients.BlazorWeb.WebApp.dll
@@ -278,7 +280,6 @@ C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.Bla
 C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.BlazorWeb.WebApp\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
 C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.BlazorWeb.WebApp\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
 C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.BlazorWeb.WebApp\bin\Debug\net6.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
-C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.BlazorWeb.WebApp\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
 C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.BlazorWeb.WebApp\bin\Debug\net6.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
 C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.BlazorWeb.WebApp\bin\Debug\net6.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
 C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.BlazorWeb.WebApp\bin\Debug\net6.0\wwwroot\_framework\System.Threading.dll.gz
@@ -328,7 +329,6 @@ C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.Bla
 C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.BlazorWeb.WebApp\bin\Debug\net6.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
 C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.BlazorWeb.WebApp\bin\Debug\net6.0\wwwroot\_framework\icudt_no_CJK.dat.gz
 C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.BlazorWeb.WebApp\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
-C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.BlazorWeb.WebApp\bin\Debug\net6.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
 C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.BlazorWeb.WebApp\bin\Debug\net6.0\wwwroot\_framework\dotnet.wasm.gz
 C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.BlazorWeb.WebApp\bin\Debug\net6.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
 C:\Bootcamp-Projeler\BlazorSozluk\src\Clients\BlazorWeb\BlazorSozluk.Clients.BlazorWeb.WebApp\bin\Debug\net6.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz

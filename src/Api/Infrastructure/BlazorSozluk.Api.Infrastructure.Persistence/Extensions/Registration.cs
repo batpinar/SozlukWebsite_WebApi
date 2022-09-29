@@ -2,11 +2,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace BlazorSozluk.Api.Infrastructure.Persistence.Extensions
 {
@@ -25,7 +20,7 @@ namespace BlazorSozluk.Api.Infrastructure.Persistence.Extensions
             });
 
             //var seedData = new SeedData();
-            //seedData.SeedAsync(configuration).GetAwaiter().GetResult(); 
+            //seedData.SeedAsync(configuration).GetAwaiter().GetResult();
 
             //Bogus ile data oluşturmak için kullanıyor. bir sefer çalışması yeterli.
 
