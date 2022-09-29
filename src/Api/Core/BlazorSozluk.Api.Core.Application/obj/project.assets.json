@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "BlazorSozluk.Api.Core.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BlazorSozluk.Common": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BlazorSozluk.Api.Core.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazorSozluk.Api.Core.Domain.dll": {}
+        }
+      },
+      "BlazorSozluk.Common/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/BlazorSozluk.Common.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazorSozluk.Common.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BlazorSozluk.Api.Core.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BlazorSozluk.Api.Core.Domain/BlazorSozluk.Api.Core.Domain.csproj",
+      "msbuildProject": "../BlazorSozluk.Api.Core.Domain/BlazorSozluk.Api.Core.Domain.csproj"
+    },
+    "BlazorSozluk.Common/1.0.0": {
+      "type": "project",
+      "path": "../../../Common/BlazorSozluk.Common/BlazorSozluk.Common.csproj",
+      "msbuildProject": "../../../Common/BlazorSozluk.Common/BlazorSozluk.Common.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "BlazorSozluk.Api.Core.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\BERKAN\\.nuget\\packages\\": {}
@@ -33,7 +70,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Core.Domain\\BlazorSozluk.Api.Core.Domain.csproj": {
+              "projectPath": "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Core.Domain\\BlazorSozluk.Api.Core.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -60,7 +101,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }

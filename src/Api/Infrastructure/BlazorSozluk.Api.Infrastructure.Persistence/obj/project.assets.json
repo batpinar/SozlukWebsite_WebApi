@@ -644,6 +644,19 @@
           }
         }
       },
+      "BlazorSozluk.Api.Core.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "BlazorSozluk.Api.Core.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BlazorSozluk.Api.Core.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BlazorSozluk.Api.Core.Application.dll": {}
+        }
+      },
       "BlazorSozluk.Api.Core.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -1906,6 +1919,11 @@
         "version.txt"
       ]
     },
+    "BlazorSozluk.Api.Core.Application/1.0.0": {
+      "type": "project",
+      "path": "../../Core/BlazorSozluk.Api.Core.Application/BlazorSozluk.Api.Core.Application.csproj",
+      "msbuildProject": "../../Core/BlazorSozluk.Api.Core.Application/BlazorSozluk.Api.Core.Application.csproj"
+    },
     "BlazorSozluk.Api.Core.Domain/1.0.0": {
       "type": "project",
       "path": "../../Core/BlazorSozluk.Api.Core.Domain/BlazorSozluk.Api.Core.Domain.csproj",
@@ -1919,6 +1937,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "BlazorSozluk.Api.Core.Application >= 1.0.0",
       "BlazorSozluk.Api.Core.Domain >= 1.0.0",
       "Bogus >= 34.0.2",
       "Microsoft.EntityFrameworkCore >= 6.0.7",
@@ -1954,6 +1973,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Core.Application\\BlazorSozluk.Api.Core.Application.csproj": {
+              "projectPath": "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Core.Application\\BlazorSozluk.Api.Core.Application.csproj"
+            },
             "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Core.Domain\\BlazorSozluk.Api.Core.Domain.csproj": {
               "projectPath": "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Core.Domain\\BlazorSozluk.Api.Core.Domain.csproj"
             }

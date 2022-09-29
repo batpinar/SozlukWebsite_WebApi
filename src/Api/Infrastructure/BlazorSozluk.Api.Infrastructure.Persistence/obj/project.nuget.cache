@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "bLMkABT1X8UJO5v9OKKT9jZPW1uOA5Lx3wADGxycKrSIxShyjk33m+ORCwYjHmXAZ1zztAsbeS7Lj0dqEzqKIQ==",
+  "dgSpecHash": "b/OFInnW7r1o7v4XSxB6GP11VV5f29eh5xMXDQWRtgoUwzprLzRUcoN/rBwR/CE1lL1jnxNKZDFx92gx0xP2LQ==",
   "success": true,
   "projectFilePath": "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Api\\Infrastructure\\BlazorSozluk.Api.Infrastructure.Persistence\\BlazorSozluk.Api.Infrastructure.Persistence.csproj",
   "expectedPackageFiles": [

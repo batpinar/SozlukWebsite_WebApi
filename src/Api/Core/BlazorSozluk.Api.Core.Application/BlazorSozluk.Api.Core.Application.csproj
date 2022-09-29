@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BlazorSozluk.Api.Core.Domain\BlazorSozluk.Api.Core.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
