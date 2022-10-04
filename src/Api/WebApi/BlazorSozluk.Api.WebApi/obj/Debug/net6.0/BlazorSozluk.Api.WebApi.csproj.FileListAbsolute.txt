@@ -64,3 +64,13 @@ C:\Bootcamp-Projeler\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\obj\Deb
 C:\Bootcamp-Projeler\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\obj\Debug\net6.0\BlazorSozluk.Api.WebApi.pdb
 C:\Bootcamp-Projeler\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\obj\Debug\net6.0\BlazorSozluk.Api.WebApi.genruntimeconfig.cache
 C:\Bootcamp-Projeler\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\obj\Debug\net6.0\ref\BlazorSozluk.Api.WebApi.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\FluentValidation.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\MediatR.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\MediatR.Contracts.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\BlazorSozluk.Api.Core.Application.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\WebApi\BlazorSozluk.Api.WebApi\bin\Debug\net6.0\BlazorSozluk.Api.Core.Application.pdb

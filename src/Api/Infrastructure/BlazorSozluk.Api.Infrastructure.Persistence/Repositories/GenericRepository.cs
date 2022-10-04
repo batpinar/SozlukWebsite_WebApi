@@ -124,7 +124,7 @@ public class GenericRepository<TEntity> : IGenericRepository<TEntity> where TEnt
 
     public virtual Task<int> AddOrUpdateAsync(TEntity entity)
     {
-        if (!this.entity.Local.Any(i => EqualityComparer<Guid>.Default.Equals(i.Id, entity.Id))) ;
+        if (!this.entity.Local.Any(i => EqualityComparer<Guid>.Default.Equals(i.Id, entity.Id))) ; ;
         _context.Update(entity);
 
         return _context.SaveChangesAsync();

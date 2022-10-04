@@ -10,3 +10,8 @@ C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Application
 C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Application\obj\Debug\net6.0\refint\BlazorSozluk.Api.Core.Application.dll
 C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Application\obj\Debug\net6.0\BlazorSozluk.Api.Core.Application.pdb
 C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Application\obj\Debug\net6.0\ref\BlazorSozluk.Api.Core.Application.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Application\bin\Debug\net6.0\BlazorSozluk.Api.Core.Domain.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Application\bin\Debug\net6.0\BlazorSozluk.Common.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Application\bin\Debug\net6.0\BlazorSozluk.Api.Core.Domain.pdb
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Application\bin\Debug\net6.0\BlazorSozluk.Common.pdb
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Core\BlazorSozluk.Api.Core.Application\obj\Debug\net6.0\BlazorSozluk.Api.Core.Application.csproj.CopyComplete

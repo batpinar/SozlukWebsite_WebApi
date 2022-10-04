@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "IWkzf0AhoFjIFaM+gQ9+gLzoyjVMhSTuZMfY2Jlbej39kA/9XpY0XXX3SCA332+mmSe1DTbwV4bH0yddXlamag==",
+  "dgSpecHash": "adpbK2AFie2VsqpvXNGo11TKz0FMo3OxMNKqpdL2aHOZYaxGwR7ouRDJS7SBAQXx8u8rJ5Ie7HMCRFwo37ZmYg==",
   "success": true,
   "projectFilePath": "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Core.Domain\\BlazorSozluk.Api.Core.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\BERKAN\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\BERKAN\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
   "logs": []
 }

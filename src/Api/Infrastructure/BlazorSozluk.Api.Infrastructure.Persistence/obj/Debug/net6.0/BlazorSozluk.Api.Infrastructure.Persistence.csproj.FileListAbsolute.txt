@@ -17,3 +17,5 @@ C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Infrastructure\BlazorSozluk.Api.Infras
 C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Infrastructure\BlazorSozluk.Api.Infrastructure.Persistence\obj\Debug\net6.0\BlazorSozluk.Api.Infrastructure.Persistence.pdb
 C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Infrastructure\BlazorSozluk.Api.Infrastructure.Persistence\obj\Debug\net6.0\BlazorSozluk.Api.Infrastructure.Persistence.genruntimeconfig.cache
 C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Infrastructure\BlazorSozluk.Api.Infrastructure.Persistence\obj\Debug\net6.0\ref\BlazorSozluk.Api.Infrastructure.Persistence.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Infrastructure\BlazorSozluk.Api.Infrastructure.Persistence\bin\Debug\net6.0\BlazorSozluk.Api.Core.Application.dll
+C:\Bootcamp-Projeler\BlazorSozluk\src\Api\Infrastructure\BlazorSozluk.Api.Infrastructure.Persistence\bin\Debug\net6.0\BlazorSozluk.Api.Core.Application.pdb
