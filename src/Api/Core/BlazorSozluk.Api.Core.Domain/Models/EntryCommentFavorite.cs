@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BlazorSozluk.Api.Core.Domain.Models
+namespace BlazorSozluk.Api.Core.Domain.Models;
+
+public class EntryCommentFavorite : BaseEntity
 {
-    public class EntryCommentFavorite : BaseEntity
-    {
-        public Guid EntryCommentId { get; set; }
-        public Guid CreatedById { get; set; }
-        public virtual EntryComment EntryComments { get; set; }
-        public virtual User CreatedUser { get; set; }
-    }
+    public Guid EntryCommentId { get; set; }
+    public Guid CreatedById { get; set; }
+    public virtual EntryComment EntryComments { get; set; }
+    public virtual User CreatedUser { get; set; }
 }

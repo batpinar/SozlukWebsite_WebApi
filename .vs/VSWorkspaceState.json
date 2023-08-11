@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Api",
+    "\\src\\Api\\Core\\BlazorSozluk.Api.Core.Application",
+    "\\src\\Api\\Infrastructure",
+    "\\src\\Api\\WebApi",
+    "\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi",
+    "\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers",
+    "\\src\\Common",
+    "\\src\\Common\\BlazorSozluk.Common",
+    "\\src\\Common\\BlazorSozluk.Common\\Models",
+    "\\src\\Common\\BlazorSozluk.Common\\Models\\RequestModels"
+  ],
+  "SelectedNode": "\\src\\Api\\WebApi\\BlazorSozluk.Api.WebApi\\Controllers\\UserController.cs",
+  "PreviewInSolutionExplorer": false
+}

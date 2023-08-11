@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "adpbK2AFie2VsqpvXNGo11TKz0FMo3OxMNKqpdL2aHOZYaxGwR7ouRDJS7SBAQXx8u8rJ5Ie7HMCRFwo37ZmYg==",
+  "dgSpecHash": "ejI6UnuTNh7HwPQdBezdWMw9CQFeUn+soElFVNS+YtPKdqwjEgxczFC8tLttJQxW9ea6NZTWEhc+W5MpwzDoRg==",
   "success": true,
-  "projectFilePath": "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Core.Domain\\BlazorSozluk.Api.Core.Domain.csproj",
+  "projectFilePath": "C:\\Users\\Berkan\\Source\\Repos\\batpinar\\SozlukWebsite_WebApi\\src\\Api\\Core\\BlazorSozluk.Api.Core.Domain\\BlazorSozluk.Api.Core.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\BERKAN\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
-    "C:\\Users\\BERKAN\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+    "C:\\Users\\Berkan\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Berkan\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
   ],
   "logs": []
 }

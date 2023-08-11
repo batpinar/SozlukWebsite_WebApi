@@ -5,7 +5,7 @@ using BlazorSozluk.Api.Infrastructure.Persistence.Context;
 
 namespace BlazorSozluk.Api.Infrastructure.Persistence.EntityConfigurations.Entry;
 
-public class EntryFavoriteEntityConfiguration : BaseEntityConfiguration<Core.Domain.Models.EntryFavorite>
+public class EntryFavoriteEntityConfiguration : BaseEntityConfiguration<EntryFavorite>
 {
     public override void Configure(EntityTypeBuilder<EntryFavorite> builder)
     {

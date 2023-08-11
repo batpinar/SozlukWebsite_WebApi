@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Core.Domain\\BlazorSozluk.Api.Core.Domain.csproj": {}
+    "C:\\Users\\Berkan\\Source\\Repos\\batpinar\\SozlukWebsite_WebApi\\src\\Api\\Core\\BlazorSozluk.Api.Core.Domain\\BlazorSozluk.Api.Core.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Core.Domain\\BlazorSozluk.Api.Core.Domain.csproj": {
+    "C:\\Users\\Berkan\\Source\\Repos\\batpinar\\SozlukWebsite_WebApi\\src\\Api\\Core\\BlazorSozluk.Api.Core.Domain\\BlazorSozluk.Api.Core.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Core.Domain\\BlazorSozluk.Api.Core.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Berkan\\Source\\Repos\\batpinar\\SozlukWebsite_WebApi\\src\\Api\\Core\\BlazorSozluk.Api.Core.Domain\\BlazorSozluk.Api.Core.Domain.csproj",
         "projectName": "BlazorSozluk.Api.Core.Domain",
-        "projectPath": "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Core.Domain\\BlazorSozluk.Api.Core.Domain.csproj",
-        "packagesPath": "C:\\Users\\BERKAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Api\\Core\\BlazorSozluk.Api.Core.Domain\\obj\\",
+        "projectPath": "C:\\Users\\Berkan\\Source\\Repos\\batpinar\\SozlukWebsite_WebApi\\src\\Api\\Core\\BlazorSozluk.Api.Core.Domain\\BlazorSozluk.Api.Core.Domain.csproj",
+        "packagesPath": "C:\\Users\\Berkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Berkan\\Source\\Repos\\batpinar\\SozlukWebsite_WebApi\\src\\Api\\Core\\BlazorSozluk.Api.Core.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\BERKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Berkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,14 +26,15 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj": {
-                "projectPath": "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj"
+              "C:\\Users\\Berkan\\Source\\Repos\\batpinar\\SozlukWebsite_WebApi\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj": {
+                "projectPath": "C:\\Users\\Berkan\\Source\\Repos\\batpinar\\SozlukWebsite_WebApi\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj"
               }
             }
           }
@@ -49,7 +54,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -58,21 +64,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj": {
+    "C:\\Users\\Berkan\\Source\\Repos\\batpinar\\SozlukWebsite_WebApi\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj",
+        "projectUniqueName": "C:\\Users\\Berkan\\Source\\Repos\\batpinar\\SozlukWebsite_WebApi\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj",
         "projectName": "BlazorSozluk.Common",
-        "projectPath": "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj",
-        "packagesPath": "C:\\Users\\BERKAN\\.nuget\\packages\\",
-        "outputPath": "C:\\Bootcamp-Projeler\\BlazorSozluk\\src\\Common\\BlazorSozluk.Common\\obj\\",
+        "projectPath": "C:\\Users\\Berkan\\Source\\Repos\\batpinar\\SozlukWebsite_WebApi\\src\\Common\\BlazorSozluk.Common\\BlazorSozluk.Common.csproj",
+        "packagesPath": "C:\\Users\\Berkan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Berkan\\Source\\Repos\\batpinar\\SozlukWebsite_WebApi\\src\\Common\\BlazorSozluk.Common\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\BERKAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Berkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -80,6 +90,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -109,7 +120,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -118,7 +130,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
